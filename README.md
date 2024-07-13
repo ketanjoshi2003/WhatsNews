@@ -1,3 +1,5 @@
+i have created a news web app "WhatsNews" using react.js javascript library, bootstrap and node.js with html, css 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
